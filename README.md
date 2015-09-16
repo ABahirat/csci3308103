@@ -1,4 +1,4 @@
 # csci3308103
-This might cause a merge conflict
+This will  cause a merge conflict
 Ameya Bahirat
 Partner: Travis Roundy
